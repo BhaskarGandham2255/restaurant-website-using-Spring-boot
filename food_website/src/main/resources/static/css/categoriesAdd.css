@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.brand_logo
+{
+    width: 180px;
+}
+
+section
+{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    width: 100%;
+    height: 100vh;
+}
+
+.addCategory_frm
+{
+    margin-top: 110px;
+    /* border: 1px solid black; */
+    border-radius: 13px;
+    padding: 20px 45px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
